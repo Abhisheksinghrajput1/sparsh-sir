@@ -19,7 +19,7 @@ public class Login_Page {
 		
 		// Used wait commands
 		Thread.sleep(50);
-		
+		//sss
 		// Open Google we will open the school erp
 		driver.get("https://school-erp-super-admin-pannel.vercel.app/");
 		
